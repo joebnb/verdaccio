@@ -1,5 +1,23 @@
 # @verdaccio/store
 
+## 6.0.0-6-next.17
+
+### Minor Changes
+
+- b13a3fef: refactor: improve versions and dist-tag filters
+
+### Patch Changes
+
+- Updated dependencies [b13a3fef]
+  - @verdaccio/utils@6.0.0-6-next.10
+  - @verdaccio/core@6.0.0-6-next.3
+  - @verdaccio/streams@11.0.0-6-next.5
+  - @verdaccio/loaders@6.0.0-6-next.7
+  - @verdaccio/logger@6.0.0-6-next.7
+  - @verdaccio/local-storage@11.0.0-6-next.10
+  - @verdaccio/proxy@6.0.0-6-next.16
+  - @verdaccio/config@6.0.0-6-next.12
+
 ## 6.0.0-6-next.16
 
 ### Minor Changes

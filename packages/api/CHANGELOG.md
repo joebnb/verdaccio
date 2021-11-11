@@ -1,5 +1,24 @@
 # @verdaccio/api
 
+## 6.0.0-6-next.19
+
+### Minor Changes
+
+- b13a3fef: refactor: improve versions and dist-tag filters
+
+### Patch Changes
+
+- Updated dependencies [b13a3fef]
+  - @verdaccio/store@6.0.0-6-next.17
+  - @verdaccio/utils@6.0.0-6-next.10
+  - @verdaccio/auth@6.0.0-6-next.16
+  - @verdaccio/core@6.0.0-6-next.3
+  - @verdaccio/tarball@11.0.0-6-next.11
+  - @verdaccio/hooks@6.0.0-6-next.9
+  - @verdaccio/logger@6.0.0-6-next.7
+  - @verdaccio/config@6.0.0-6-next.12
+  - @verdaccio/middleware@6.0.0-6-next.16
+
 ## 6.0.0-6-next.18
 
 ### Patch Changes

@@ -1,5 +1,19 @@
 # @verdaccio/fastify-migration
 
+## 6.0.0-6-next.17
+
+### Patch Changes
+
+- Updated dependencies [b13a3fef]
+  - @verdaccio/store@6.0.0-6-next.17
+  - @verdaccio/utils@6.0.0-6-next.10
+  - @verdaccio/auth@6.0.0-6-next.16
+  - @verdaccio/core@6.0.0-6-next.3
+  - @verdaccio/readme@11.0.0-6-next.4
+  - @verdaccio/tarball@11.0.0-6-next.11
+  - @verdaccio/logger@6.0.0-6-next.7
+  - @verdaccio/config@6.0.0-6-next.12
+
 ## 6.0.0-6-next.16
 
 ### Minor Changes

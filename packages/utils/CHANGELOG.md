@@ -1,5 +1,15 @@
 # @verdaccio/utils
 
+## 6.0.0-6-next.10
+
+### Minor Changes
+
+- b13a3fef: refactor: improve versions and dist-tag filters
+
+### Patch Changes
+
+- @verdaccio/core@6.0.0-6-next.3
+
 ## 6.0.0-6-next.9
 
 ### Minor Changes
